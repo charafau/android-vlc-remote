@@ -1,5 +1,0 @@
-/home/charafau/AndroidstudioProjects/android-vlc-remote/app/build/intermediates/classes/debug
-/home/charafau/AndroidstudioProjects/android-vlc-remote/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-832cbecacd4ec8ccdc958217e5f7ce61af6a4d54.jar
-/home/charafau/AndroidstudioProjects/android-vlc-remote/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-9e15d6fcbb57c6f2604723e0d6483473a8e55bfb.jar
-/home/charafau/AndroidstudioProjects/android-vlc-remote/app/build/intermediates/pre-dexed/debug/classes-6b3e2ed0f312318bae7566261c588aac992f1648.jar
-/home/charafau/AndroidstudioProjects/android-vlc-remote/app/build/intermediates/pre-dexed/debug/classes-d42be8e3fd9d2716430022801a53a2a392787ea4.jar

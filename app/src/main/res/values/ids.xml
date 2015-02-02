@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fragment_services_discovery" type="id" />
+    <item name="fragment_art" type="id" />
+    <item name="fragment_buttons" type="id" />
+    <item name="fragment_info" type="id" />
+    <item name="fragment_volume" type="id" />
+    <item name="fragment_playlist" type="id" />
+    <item name="fragment_browse" type="id" />
+    <item name="fragment_playback" type="id" />
+    <item name="fragment_navigation" type="id" />
+    <item name="tab_media" type="id" />
+    <item name="tab_playlist" type="id" />
+    <item name="tab_browse" type="id" />
+    <item name="tab_navigation" type="id" />
+</resources>

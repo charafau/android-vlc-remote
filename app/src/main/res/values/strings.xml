@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Remote for VLC</string>
+    <string name="description">Remote control for VideoLAN Client (VLC) media player.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="settings">Settings</string>
+    <!-- Label for menu item to refresh a view (playlist, browse, etc.) -->
+    <string name="refresh">Refresh</string>
+    <string name="troubleshooting">Troubleshooting</string>
+    <string name="troubleshooting_condensed">Help</string>
+    <string name="scan">Scan</string>
+    <string name="playlist_title">Playlist</string>
+    <string name="volume">Volume: </string>
+    <string name="error_does_not_exist">The selected folder does not exist.</string>
+    <string name="title">VLC Remote [{0}]</string>
+    <string name="title_pick_server">Pick Server</string>
+    <string name="add_server">Add VLC server</string>
+    <string name="label_hostname">Hostname or IP address</string>
+    <string name="label_port">Port (default: 8080)</string>
+    <string name="label_user">User (default: none)</string>
+    <string name="label_password">Password (default: none)</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="summary_wifi_connected">Connected to {0}</string>
+    <string name="summary_wifi_disconnected">Warning: Wi-Fi is disconnected</string>
+    <string name="summary_not_in_range">Not in range</string>
+    <string name="pause_for_call">Pause for phone calls</string>
+    <string name="summary_pause_for_call">Pause media playback during phone calls</string>
+    <string name="summary_remembered">Remembered</string>
+    <string name="summary_forbidden">Please edit <b>.hosts</b> file on your PC</string>
+    <string name="summary_password_protected">Password required</string>
+    <string name="summary_password_not_set">Set password in <i>Preferences &gt; All &gt; Main interfaces &gt; Lua &gt; Lua HTTP &gt; Password</i></string>
+    <string name="context_forget">Forget</string>
+    <string name="progress_scanning">Scanning</string>
+    <string name="vlc_servers">VLC Servers</string>
+    <string name="search_label">Input</string>
+    <string name="search_hint">Enter MRL</string>
+    <string name="browse_empty">No files found</string>
+    <string name="browse_home">Home</string>
+    <string name="browse_close">Close</string>
+    <string name="connection_error">No connection</string>
+    <string name="no_media">No media selected</string>
+    <string name="context_open">Open</string>
+    <string name="context_play">Play</string>
+    <!-- Context menu to set the selected directory as the home directory -->
+    <string name="menu_set_home">Set as home</string>
+    <string name="context_stream">Stream</string>
+    <string name="context_enqueue">Add to playlist</string>
+    <string name="context_dequeue">Remove from playlist</string>
+    <string name="context_search">Search</string>
+    <string name="toggle_fullscreen">Toggle fullscreen</string>
+    <string name="audio_track">Audio track</string>
+    <string name="subtitle_track">Subtitle track</string>
+    <string name="aspect_ratio">Aspect ratio</string>
+    <string name="crop">Video crop</string>
+    <!-- Menu item to navigate to parent directory -->
+    <string name="menu_parent">Parent Directory</string>
+    <!-- Menu item to navigate to parent directory (condensed) -->
+    <string name="menu_parent_condensed">Parent</string>
+    <string name="menu_clear_playlist">Clear playlist</string>
+    <string name="mediasearch">Search for %s using:</string>
+    <string name="emptyplaylist">Playlist is empty.</string>
+    <string name="noserver">Server not selected.</string>
+    <string name="section_parent">⇧</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="sethome">Home set to %s</string>
+    <string name="playlist_shuffle">Shuffle</string>
+    <string name="playlist_loop">Loop</string>
+    <string name="playlist_repeat">Repeat</string>
+    <string name="service_label">VLC Remote Service</string>
+
+    <string name="enter_password_title">Enter Password</string>
+    <string name="enter_password_message">Please enter password set in VLC preferences:</string>
+    <string name="enter_password_hint">Lua HTTP Password</string>
+
+    <!-- Label for tab containing playback controls -->
+    <string name="goto_playback">Playback</string>
+
+    <!-- Label for music library tab -->
+    <string name="goto_start">Library</string>
+
+    <!-- Label for tab containing information about the currently playing track -->
+    <string name="nowplaying_title">Playing</string>
+
+    <!-- Label for DVD navigation tab -->
+    <string name="tab_dvd">DVD</string>
+
+    <!-- Label for playlist tab -->
+    <string name="tab_playlist">Playlist</string>
+
+    <!-- Instructions for using DVD navigation gestures -->
+    <string name="dvd_instructions">Swipe left, right, up, and down to navigate DVD menus. Tap to select a menu item.</string>
+
+    <!-- Label for button to dismiss a dialog -->
+    <string name="close">Close</string>
+
+    <!-- Content description for hotkeys menu -->
+    <string name="hotkeys">Hotkeys</string>
+</resources>
